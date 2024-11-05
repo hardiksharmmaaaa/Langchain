@@ -1,0 +1,36 @@
+{
+  "build": "py311hd8ed1ab_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python 3.11.10.*",
+    "python_abi * *_cp311"
+  ],
+  "extracted_package_dir": "c:\\Users\\GFG0496-HARDIK\\anaconda3\\pkgs\\cpython-3.11.10-py311hd8ed1ab_2",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "cpython-3.11.10-py311hd8ed1ab_2.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "c:\\Users\\GFG0496-HARDIK\\anaconda3\\pkgs\\cpython-3.11.10-py311hd8ed1ab_2",
+    "type": 1
+  },
+  "md5": "185b1719742d5377721a6d93582a4a1f",
+  "name": "cpython",
+  "noarch": "python",
+  "package_tarball_full_path": "c:\\Users\\GFG0496-HARDIK\\anaconda3\\pkgs\\cpython-3.11.10-py311hd8ed1ab_2.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "88ec585b4578c4ce5802908e40ea4acf966e1650d67251204938ab5aa60aebd3",
+  "size": 46735,
+  "subdir": "noarch",
+  "timestamp": 1727719034000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.11.10-py311hd8ed1ab_2.conda",
+  "version": "3.11.10"
+}
