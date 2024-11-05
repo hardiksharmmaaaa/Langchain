@@ -11,3 +11,5 @@ python-dotenv
 langchain-openai
 sentence-transformers
 langchain-huggingface
+faiss-cpu
+chromadb
